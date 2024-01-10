@@ -1,4 +1,4 @@
-name: Build and deploy .NET Core application to Web App GitHubWorkflowTest20240110101445 with API Management Service GitHubWorkflowTestapi-GitHubWorkflowTest
+name: CI 
 on:
   push:
     branches:
