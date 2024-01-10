@@ -97,11 +97,11 @@
               "type": "Microsoft.ApiManagement/service/apis",
               "name": "GitHubWorkflowTestapi/GitHubWorkflowTest",
               "properties": {
-                "displayName": "GitHubWorkflowTest",
+                "displayName": "GitHubWorkflowTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "apiRevision": "1",
                 "description": null,
                 "subscriptionRequired": true,
-                "serviceUrl": null,
+                "serviceUrl": "https://githubworkflowtest20240110095446.azurewebsites.net",
                 "path": "",
                 "protocols": [
                   "https"
