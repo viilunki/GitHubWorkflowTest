@@ -29,5 +29,11 @@ namespace GitHubWorkflowTest.Controllers
             })
             .ToArray();
         }
+
+        [HttpGet("Test", Name = "Test")]
+        public string Test()
+        {
+            return "This is working!!";
+        }
     }
 }
