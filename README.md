@@ -1,1 +1,1 @@
-![Badge](https://github.com/viilunki/GitHubWorkflowTest/blob/master/.github/workflows/GitHubWorkflowTestUus.yml/badge.svg)
+![Badge](https://github.com/viilunki/GitHubWorkflowTest/actions/.github/workflows/GitHubWorkflowTestUus.yml/badge.svg)
